@@ -1,0 +1,16 @@
+{
+  "title": "Barn",
+  "id": "barn",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.1.0",
+  "lastPlayed": "Mon Nov 11 2024 22:01:55 GMT-0700 (Mountain Standard Time)",
+  "playtime": 1873,
+  "background": "systems/dnd5e/ui/official/dnd5e-background.webp",
+  "resetKeys": false
+}
